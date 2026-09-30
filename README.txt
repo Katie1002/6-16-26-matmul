@@ -1,3 +1,4 @@
+Author: Katherine Weiss, katiew1002@gmail.com
 <6,16,26> bilinear scheme of rank 1527 over Z (coefficients in {-3,...,3})
 
 Scheme files (same content, three formats, written with the Scheme class from
